@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
-  <string name="app_name">DAVdroid</string>
-  <string name="account_title_address_book">DAVdroid-Adressbuch</string>
+    <string name="account_title_address_book">DAVdroid-Adressbuch</string>
   <string name="address_books_authority_title">Adressbücher</string>
   <string name="help">Hilfe</string>
   <string name="manage_accounts">Konten verwalten</string>
   <string name="please_wait">Bitte warten …</string>
   <string name="send">Senden</string>
-  <string name="beta_feedback_url">https://forums.bitfire.at/category/9/beta-test-discussion?pk_campaign=davdroid-app</string>
-  <string name="notification_channel_debugging">Fehlersuche</string>
+    <string name="notification_channel_debugging">Fehlersuche</string>
   <string name="notification_channel_sync_status">Sync-Status</string>
   <string name="notification_channel_sync_problems">Sync-Probleme</string>
   <!--startup dialogs-->

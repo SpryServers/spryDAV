@@ -1,15 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
-  <string name="app_name">DAVdroid</string>
-  <string name="account_title_address_book">DAVdroid Adresboek</string>
+    <string name="account_title_address_book">DAVdroid Adresboek</string>
   <string name="address_books_authority_title">Adresboeken</string>
   <string name="help">Help</string>
   <string name="manage_accounts">Beheer accounts</string>
   <string name="please_wait">Een moment geduld...</string>
   <string name="send">Verzenden</string>
-  <string name="beta_feedback_url">https://forums.bitfire.at/category/9/beta-test-discussion?pk_campaign=davdroid-app</string>
-  <!--startup dialogs-->
+    <!--startup dialogs-->
   <string name="startup_battery_optimization">Batterij optimalisatie</string>
   <string name="startup_battery_optimization_message">Android kan mogelijk de DAVdroid synchronisatie stoppen na een paar dagen. Om dit te voorkomen zet u de batterij optimalisatie uit.</string>
   <string name="startup_battery_optimization_disable">DAVdroid afsluiten</string>

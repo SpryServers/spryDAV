@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
-  <string name="app_name">DAVdroid</string>
   <string name="account_title_address_book">Адресная книга DAVdroid</string>
   <string name="address_books_authority_title">Адресные книги</string>
   <string name="help">Помощь</string>
@@ -9,8 +8,7 @@
   <string name="please_wait">Пожалуйста, подождите …</string>
   <string name="send">Отправить</string>
   <string name="homepage_url">https://www.davdroid.com/?pk_campaign=davdroid-app</string>
-  <string name="beta_feedback_url">https://forums.bitfire.at/category/9/beta-test-discussion?pk_campaign=davdroid-app</string>
-  <string name="notification_channel_debugging">Отладка</string>
+    <string name="notification_channel_debugging">Отладка</string>
   <string name="notification_channel_sync_status">Статус синхронизации</string>
   <string name="notification_channel_sync_problems">Проблемы с синхронизацией</string>
   <!--startup dialogs-->

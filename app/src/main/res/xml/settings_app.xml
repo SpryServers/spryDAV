@@ -32,7 +32,7 @@
             android:title="@string/app_settings_override_proxy_host"
             android:inputType="textUri"/>
 
-        <at.bitfire.davdroid.ui.widget.IntEditTextPreference
+        <net.spryservers.sprydav.ui.widget.IntEditTextPreference
             android:key="override_proxy_port"
             android:dependency="override_proxy"
             android:title="@string/app_settings_override_proxy_port"

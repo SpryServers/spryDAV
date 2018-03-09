@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
-  <string name="app_name">DAVdroid</string>
   <string name="account_title_address_book">DAVdroid 通讯录</string>
   <string name="address_books_authority_title">通讯录</string>
   <string name="help">帮助</string>
   <string name="manage_accounts">管理账户</string>
   <string name="please_wait">请稍等...</string>
   <string name="send">发送</string>
-  <string name="homepage_url">https://www.davdroid.com/?pk_campaign=davdroid-app</string>
-  <string name="beta_feedback_url">https://forums.bitfire.at/category/9/beta-test-discussion?pk_campaign=davdroid-app</string>
   <string name="notification_channel_debugging">调试</string>
   <string name="notification_channel_sync_status">同步状态</string>
   <string name="notification_channel_sync_problems">同步错误</string>
@@ -118,8 +115,7 @@
   <string name="permissions_opentasks_details">要把 CalDAV 任务与本地任务列表同步，DAVdroid 需要访问 OpenTasks。</string>
   <string name="permissions_opentasks_request">请求 OpenTasks 权限</string>
   <!--AddAccountActivity-->
-  <string name="login_help_url">https://www.davdroid.com/tested-with/?pk_campaign=davdroid-app</string>
-  <string name="login_title">增加账户</string>
+    <string name="login_title">增加账户</string>
   <string name="login_type_email">使用邮箱地址登录</string>
   <string name="login_email_address">Email 地址</string>
   <string name="login_email_address_error">请输入有效 Email 地址</string>

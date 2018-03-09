@@ -1,16 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <resources xmlns:tools="http://schemas.android.com/tools">
   <!--common strings-->
-  <string name="app_name">DAVdroid</string>
-  <string name="account_title_address_book">DAVdroid-adressebok</string>
+    <string name="account_title_address_book">DAVdroid-adressebok</string>
   <string name="address_books_authority_title">Adressebøker</string>
   <string name="help">Hjelp</string>
   <string name="manage_accounts">Behandle kontoer</string>
   <string name="please_wait">Vent…</string>
   <string name="send">Send</string>
-  <string name="homepage_url">https://www.davdroid.com/?pk_campaign=davdroid-app</string>
-  <string name="beta_feedback_url">https://forums.bitfire.at/category/9/beta-test-discussion?pk_campaign=davdroid-app</string>
-  <!--startup dialogs-->
+    <!--startup dialogs-->
   <string name="startup_battery_optimization">Batterioptimisering</string>
   <string name="startup_battery_optimization_message">Det kan hende Android skrur av/reduserer DAVdroid-synkronisering etter et par dager. For å forhindre dette, skru av batterioptimisering.</string>
   <string name="startup_battery_optimization_disable">Skru av for DAVdroid</string>
@@ -114,8 +111,7 @@
   <string name="permissions_opentasks_details">For å synkronisere CalDAV-gjøremål med din lokale gjøremålslister må DAVdroid ha tilgang til OpenTasks.</string>
   <string name="permissions_opentasks_request">Forespør OpenTasks-tilganger</string>
   <!--AddAccountActivity-->
-  <string name="login_help_url">https://www.davdroid.com/tested-with/?pk_campaign=davdroid-app</string>
-  <string name="login_title">Legg til konto</string>
+    <string name="login_title">Legg til konto</string>
   <string name="login_type_email">Innlogging med e-postadresse</string>
   <string name="login_email_address">E-postadresse</string>
   <string name="login_email_address_error">Gyldig e-postadresse påkrevd</string>
